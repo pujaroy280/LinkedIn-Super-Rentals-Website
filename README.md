@@ -1,6 +1,6 @@
 # Super-Rentals-Website
 
-Built a Ember app that allows to rent apartments using the Ember.js framework during winternship at LinkedIn
+Built an Ember app that allows to rent apartments from all around the world leveraging the Ember.js framework during winternship at LinkedIn
 
 <p align="center">
   <img src="https://cms-assets.tutsplus.com/legacy-courses/CRS-43.png">
